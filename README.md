@@ -15,9 +15,9 @@ This application allows users to upload a CSV file. It then renders an **interac
 
 ---
 
-## Demo / Walkthrough
+## Demo
 
-<img src='https://github.com/snic29/streamgraph/blob/master/Streamgraph.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/snic29/streamgraph/blob/main/Streamgraph.gif' title='Demo Video' width='' alt='Demo Video' />
 
 ---
 
