@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/streamgraph/static/css/main.0fe98b54.css",
+    "main.js": "/streamgraph/static/js/main.99b20256.js",
+    "index.html": "/streamgraph/index.html",
+    "main.0fe98b54.css.map": "/streamgraph/static/css/main.0fe98b54.css.map",
+    "main.99b20256.js.map": "/streamgraph/static/js/main.99b20256.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fe98b54.css",
+    "static/js/main.99b20256.js"
+  ]
+}
